@@ -1,4 +1,5 @@
-id	binary label	label	image path0	Not horse	cow	JPEGImages/2008_000335.jpg
+id	binary label	label	image path
+0	Not horse	cow	JPEGImages/2008_000335.jpg
 1	Not horse	cow	JPEGImages/2008_000335.jpg
 2	Not horse	cow	JPEGImages/2008_000335.jpg
 3	Not horse	cow	JPEGImages/2008_000335.jpg
